@@ -307,9 +307,10 @@ h4 {
   }
 
 footer ul li a {
-    color:white;
-    font-size: 25px;
-    text-decoration: none;
+  display: flex;
+  color:white;
+  font-size: 25px;
+  text-decoration: none;
   }
   
 footer ul li:hover {
